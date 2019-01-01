@@ -1,7 +1,10 @@
-
+﻿
 p a{
-font-weight: 800 !important;
-font-size:48px !important;
+font-weight: bolder !important;
+font-size: 1.05em !important;
+}
+p a:hover{
+font-weight:600 !important;
 }
 
 .featuredproperties h2, .featuredroomtype h2,h2 {
@@ -187,6 +190,11 @@ top:0px;left:8px;
 font-size:15px;
 color:#6e8db5;
 }
+.bg-blue ul{
+list-style-type: none !important;
+}
+
+
 [data-room-details-icon="sqm"]{
 display:none !important;
 }
