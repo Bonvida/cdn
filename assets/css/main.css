@@ -1,7 +1,7 @@
 
-p a{
+p > a{
 font-weight: 800;
-font-size:48px;
+font-size:48px !important;
 }
 
 .featuredproperties h2, .featuredroomtype h2,h2 {
